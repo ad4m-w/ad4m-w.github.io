@@ -10,7 +10,13 @@ h1{
 p{
     color:white;
 }
-
+aside{
+  text-align: center;
+  font-size: 30px;
+}
+article{
+  text-align: center;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;

@@ -11,6 +11,18 @@ p{
     color:white;
 }
 
+p1{
+    font-size: 24px; 
+}
+
+p2{
+    font-size: 24px;
+}
+
+p3{
+    font-size: 24px;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
